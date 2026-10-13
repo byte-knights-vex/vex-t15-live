@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "state": "Complete",
+  "slide": 2,
+  "passed": {
+    "2": [
+      "g1",
+      "g2"
+    ]
+  }
+}
