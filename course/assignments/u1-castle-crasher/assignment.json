@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "id": "u1-castle-crasher",
+  "title": "Unit 1: Castle Crasher",
+  "order": 1,
+  "worldId": "castle-crasher",
+  "robotId": "vr-robot-styled"
+}

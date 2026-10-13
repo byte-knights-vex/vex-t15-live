@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "students": [
+    {
+      "id": "tess",
+      "displayName": "Tess T15",
+      "commitEmail": "tess.t15@example.org",
+      "pinSalt": "7d3a82079f0391262673528c7cd3bee6",
+      "pinHash": "f5f8b5de39e305f3bfe8602e1ad8c6bd315395ed660183621d1a2b7047074425"
+    },
+    {
+      "id": "uma",
+      "displayName": "Uma T15",
+      "commitEmail": "uma.t15@example.org",
+      "pinSalt": "00575c93cc70cc9c48b04128159298b5",
+      "pinHash": "6de85333ba3a10998b7df887859cd6c3a66d5883cd5e12f5664819be5b91c5ac"
+    }
+  ]
+}

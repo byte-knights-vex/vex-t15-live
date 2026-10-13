@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "id": "u3-wall-maze",
+  "title": "Unit 3: Wall Maze",
+  "order": 3,
+  "worldId": "wall-maze",
+  "robotId": "vr-robot-styled"
+}
